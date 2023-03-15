@@ -1,0 +1,8 @@
+Version 1:
+Creation of the program itself with the following features
+- Verification in bulk of decrypted shipments
+- GUI to facilitate user interaction with the tool
+
+V2:
+- Enable the program to decrypt the shipments
+
